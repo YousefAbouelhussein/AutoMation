@@ -1,0 +1,22 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Database file
+db.sqlite3
+
+# Environment variables
+.env
+
+# Media files (if you have a media directory for user-uploaded files)
+/media/
+
+# Static files (if you use collectstatic)
+/staticfiles/
+
+# Django secret key file
+secret_key.txt
+
+# PyCharm or other IDEs
+.idea/
+*.iml
